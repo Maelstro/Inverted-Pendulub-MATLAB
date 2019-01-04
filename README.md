@@ -11,4 +11,6 @@ Implemented algorithms (working):
 
 26.12.2018, 20:55 - working FLC for rod angle position.
 
+04.01.2019 - fully working FLC
+
 Made as a student project for Discrete Control, AGH UST.
